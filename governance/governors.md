@@ -22,24 +22,22 @@ _\*1 tTCR token being equivalent to 1 TCR token in voting weight._
 
 {% tabs %}
 {% tab title="Create Governance Proposals" %}
-1. **Draft a Discourse proposal in the '**[**Governance > Idea**](https://discourse.tracer.finance/c/dao-proposals/idea/14)**' category.** \
-   ****This enables anyone to easily create a proposal to suggest an improvement to the Tracer DAO ecosystem. DAO members indicate through a poll if they would like the proposal to proceed and be formalised in preparation for an on-chain vote.\
+1. **Draft your proposal on** [**Discourse**](https://discourse.tracer.finance/)**.**\
+   ****Select the category that is the most relevant to your proposal. Governors will express their sentiment via comment and/or a poll on your proposal. \
 
-2. **If your idea receives majority vote, a DAO member will create a formal proposal in the '**[**Governance > Proposal**](https://discourse.tracer.finance/c/dao-proposals/proposal/13)**' category.**\
-   ****The formal proposal allows DAO members to understand all aspects of the proposal, including any deliverables, considerations, conflicts of interests, and payments required. DAO members indicate if they would like the formal proposal should be pushed to Snapshot for on-chain voting through a poll.\
+2. **If your proposal receives majority positive sentiment, a governor will create a formal proposal in the '**[**Governance > Proposal**](https://discourse.tracer.finance/c/dao-proposals/proposal/13)**' category.** \
+   ****The formal proposal allows governors to understand all aspects of the proposal, including any deliverables, considerations, conflicts of interests, and payments required. Governors will express their sentiment via comment and/or a poll on the formal proposal. \
 
-3. **If the formal proposal receives majority vote, a DAO member will push it to** [**Snapshot**](https://snapshot.org/#/tracer.eth) **for on-chain voting.**\
-   ****
-4. **Two-day voting process commences on Snapshot.**\
-   Governers have two days to vote on the proposal on Snapshot. If the proposal reaches a majority vote it successfully passes voting.\
+3. **If the formal proposal receives majority vote, a governor will push it to** [**Snapshot**](https://snapshot.org/#/tracer.eth) **for on-chain voting.**\
+   ****Governors have two days to vote on Snapshot. If the proposal reaches a majority vote it successfully passes.\
 
-5. **If the vote is successful, the proposal is implemented and pushed to GitHub.**\
+4. **If the vote is successful, the proposal is implemented and pushed to GitHub.**\
    This either done by you, the proposer, or Mycelium.\
 
-6. **The proposal is pushed on-chain by a DAO member.**\
-   Any DAO member can push the proposal on-chain through Etherscan.\
+5. **The proposal is pushed on-chain by a governor.**\
+   Any governor can push the proposal on-chain through Etherscan.\
 
-7. **One-week multi-sig relay occurs in order for the proposal to be executed on-chain.**\
+6. **One-week multi-sig relay occurs in order for the proposal to be executed on-chain.**\
    ****After a two-day warm-up period, the multi-sig voters have three-days to relay the results from the Snapshot vote. This is followed by a two-day cool down period, and then the proposal is executed on-chain.
 {% endtab %}
 
