@@ -39,7 +39,7 @@ The Growth Fund is managed by the **Growth Fund Managers** via a 4/7 [multisig](
 | 1. Raymond (Co-founder) of Mycelium                                                    | raymogg.eth                                |
 | 2. Pat (Co-founder) of Mycelium                                                        | 0x9C58Bdf481Ab88CBfc9FFBb10aAd74bef78c3390 |
 | 3. Adam Bawi (Core Contributor) of Mycelium                                            | 0x12FABFBFc1F15aE2F46f87DFD42e028E1D3Fbbbb |
-| 4. Michael and Vance (Founders) of Framework Ventures                                  | 0x65DCD62932fEf5af25AdA91F0F24658e94e259c5 |
+| 4. Doo Wan Nam (Co-founder) of Stable Node                                             | 0x2D5b6ccCa29B77AEB21D821De3B433F97fdeF29B |
 | 5. Richard (CEO) and Aaron (Research Associate) of DACM                                | 0xf8ccf1f5381956f4152B5570627C49D42eABB60e |
 | 6. Balder Bomans (Managing Partner) & Mathijs van Esch (Investment Manager) of Maven11 | 0xF66d7aB001B06b44B473E23d70eaC1E47B19e453 |
 | 7. Chris Berg (Co-founder) of RMIT Blockchain Innovation Hub                           | 0x219BaD06180F4024A06C372d754E882D175Df098 |

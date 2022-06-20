@@ -18,8 +18,8 @@
 
 * [Governance](governance/governance.md)
 * [Governors](governance/governors.md)
-* [Treasury Management](governance/treasury-management/README.md)
-  * [Growth Fund](governance/treasury-management/growth-fund.md)
+* [Treasury Management](governance/treasury-management.md)
+* [Growth Fund](governance/growth-fund.md)
 
 ## 🪙 Tokenomics
 
